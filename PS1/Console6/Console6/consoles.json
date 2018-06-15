@@ -1,0 +1,86 @@
+[{
+		"name": "Atari 2600",
+		"manufacturer": "Atari",
+		"releaseDate": "11/09/1977",
+		"unitsSold": 30,
+		"image": "atari2600"
+	},
+	{
+		"name": "Genesis",
+		"manufacturer": "SEGA",
+		"releaseDate": "14/08/1989",
+		"unitsSold": 30.75,
+		"image": "genesis"
+	},
+	{
+		"name": "Super Nintendo",
+		"manufacturer": "Nintendo",
+		"releaseDate": "23/08/1991",
+		"unitsSold": 49.10,
+		"image": "supernes"
+	},
+
+	{
+		"name": "Playstation",
+		"manufacturer": "Sony",
+		"releaseDate": "09/09/1995",
+		"unitsSold": 102.49,
+		"image": "playstation"
+	},
+	{
+		"name": "NES",
+		"manufacturer": "Nintendo",
+		"releaseDate": "08/10/1985",
+		"unitsSold": 61.91,
+		"image": "nes"
+	},
+	{
+		"name": "Master System",
+		"manufacturer": "SEGA",
+		"releaseDate": "20/09/1986",
+		"unitsSold": 13.0,
+		"image": "mastersystem"
+	},
+	{
+		"name": "XBox",
+		"manufacturer": "Microsoft",
+		"releaseDate": "15/11/1991",
+		"unitsSold": 24.0,
+		"image": "xbox"
+	},
+	{
+		"name": "XBox 360",
+		"manufacturer": "Microsoft",
+		"releaseDate": "22/11/2005",
+		"unitsSold": 84.0,
+		"image": "xbox360"
+	},
+	{
+		"name": "XBox One",
+		"manufacturer": "Microsoft",
+		"releaseDate": "22/11/2013",
+		"unitsSold": 25.0,
+		"image": "xboxone"
+	},
+	{
+		"name": "Playstation 2",
+		"manufacturer": "Sony",
+		"releaseDate": "26/10/2000",
+		"unitsSold": 155,
+		"image": "playstation2"
+	},
+	{
+		"name": "Playstation 3",
+		"manufacturer": "Sony",
+		"releaseDate": "17/11/2006",
+		"unitsSold": 80,
+		"image": "playstation3"
+	},
+	{
+		"name": "Playstation 4",
+		"manufacturer": "Sony",
+		"releaseDate": "15/11/2013",
+		"unitsSold": 73.6,
+		"image": "playstation4"
+	}
+]
